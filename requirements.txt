@@ -1,0 +1,9 @@
+#### `requirements.txt`
+```txt
+langchain==0.1.20
+langchain-openai
+langchain-community
+faiss-cpu
+tiktoken
+python-dotenv
+openai
